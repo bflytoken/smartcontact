@@ -1,5 +1,5 @@
 # BflyToken Smart Contact
 
-Solidity smart contracts for Pepe
+Solidity smart contracts for BflyToken
 
 
